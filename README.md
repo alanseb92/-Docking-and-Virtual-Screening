@@ -17,6 +17,8 @@ Usage
 Upload your molecular structure files to the Colab environment.
 Run the notebook cells sequentially to complete the docking process.
 Visualize the results.
+![Molecular Docking](molecular%20docking.png)
+
 
 Contributing
 Contributions are welcome! Feel free to submit a pull request.
