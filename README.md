@@ -1,1 +1,1 @@
-# -Docking-and-Virtual-Screening
+# Docking and Virtual Screening
