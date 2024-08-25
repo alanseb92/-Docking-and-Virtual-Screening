@@ -5,11 +5,11 @@ This repository contains a Jupyter notebook designed for performing molecular do
 
 Getting Started
 Clone this repository:
-bash
-Copiar código
-git clone https://github.com/yourusername/repository-name.git
+git clone git@github.com:alanseb92/-Docking-and-Virtual-Screening.git
+
 Open the notebook in Google Colab.
 Follow the instructions provided in the notebook.
+
 Prerequisites
 A Google account.
 Basic knowledge of molecular docking.
@@ -17,6 +17,7 @@ Usage
 Upload your molecular structure files to the Colab environment.
 Run the notebook cells sequentially to complete the docking process.
 Visualize the results.
+
 Contributing
 Contributions are welcome! Feel free to submit a pull request.
 
